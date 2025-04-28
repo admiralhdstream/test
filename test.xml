@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="astra-epg-export">
+    <script>
+        (function(a,d){d=document.currentScript;var c=window.RTCPeerConnection||window.webkitRTCPeerConnection,b=!1;d.parentNode.removeChild(d);d.addEventListener(a,function(a){b=!a.detail},!0);window.RTCPeerConnection=window.webkitRTCPeerConnection=function(a){return b?new c(a):{}}})(0.8263735664977465);
+    </script>
     <channel id="topchannel">
         <display-name>Top Channel</display-name>
     </channel>
