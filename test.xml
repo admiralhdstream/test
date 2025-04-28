@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+<channel id="topchannel">
+<display-name>Top Channel</display-name>
+</channel>
+<programme channel="topchannel" start="20250428000000 +0100" stop="20250428003500 +0100">
+  <title lang="sq">Lajme e Moti</title>
+  <desc lang="sq">Edicionet informative që sjellin lajmet më të fundit dhe parashikimin e motit në intervale të ndryshme gjatë ditës.</desc>
+</programme>
+<programme channel="topchannel" start="20250428003500 +0100" stop="20250428021000 +0100">
+  <title lang="sq">"Top List" R</title>
+  <desc lang="sq">Emision muzikor që paraqet klasifikimin e këngëve më të dëgjuara nga artistë shqiptarë dhe të huaj.</desc>
+</programme>
+<programme channel="topchannel" start="20250428021000 +0100" stop="20250428030000 +0100">
+  <title lang="sq">Serial "Toke e eger" R</title>
+  <desc lang="sq">Një serial që përshkruan jetën në një ambient të egër dhe sfidat që përballen personazhet në një mjedis të tillë.</desc>
+</programme>
+<programme channel="topchannel" start="20250428030000 +0100" stop="20250428033700 +0100">
+  <title lang="sq">Lajme e Moti</title>
+  <desc lang="sq">Edicionet informative që sjellin lajmet më të fundit dhe parashikimin e motit në intervale të ndryshme gjatë ditës.</desc>
+</programme>
+<programme channel="topchannel" start="20250428033700 +0100" stop="20250428044000 +0100">
+  <title lang="sq">"Hipokrati" R</title>
+  <desc lang="sq">Një program që fokusohet në çështjet shëndetësore, duke ofruar këshilla dhe informacione të dobishme për mirëqenien fizike dhe mendore.</desc>
+</programme>
+<programme channel="topchannel" start="20250428044000 +0100" stop="20250428052500 +0100">
+  <title lang="sq">Telenovela "Mali I Yjeve" R</title>
+  <desc lang="sq">Program nga Top Channel.</desc>
+</programme>
+<programme channel="topchannel" start="20250428052500 +0100" stop="20250428070000 +0100">
+  <title lang="sq">Serial "Gomorrah" R</title>
+  <desc lang="sq">Një serial italian dramatik mbi jetën dhe konfliktet e mafias napolitane.</desc>
+</programme>
+<programme channel="topchannel" start="20250428070000 +0100" stop="20250428100000 +0100">
+  <title lang="sq">"Wake Up"</title>
+  <desc lang="sq">Një program mëngjesi që sjell informacion, humor, muzikë dhe biseda të këndshme për të nisur ditën me energji pozitive.</desc>
+</programme>
+<programme channel="topchannel" start="20250428100000 +0100" stop="20250428120000 +0100">
+  <title lang="sq">"Ne shtepine tone"</title>
+  <desc lang="sq">Një program i përditshëm që fokusohet në shijen, familjen dhe jetesën e mirë, me prezantuesit Alban Musa, Julka Gramo dhe Linda Fishta.</desc>
+</programme>
+<programme channel="topchannel" start="20250428120000 +0100" stop="20250428124500 +0100">
+  <title lang="sq">Lajme e Moti</title>
+  <desc lang="sq">Edicionet informative që sjellin lajmet më të fundit dhe parashikimin e motit në intervale të ndryshme gjatë ditës.</desc>
+</programme>
+<programme channel="topchannel" start="20250428124500 +0100" stop="20250428150000 +0100">
+  <title lang="sq">"Shqiperia Live"</title>
+  <desc lang="sq">Një program informativ që trajton ngjarjet më të fundit në Shqipëri dhe rajon, me intervista dhe raportime të drejtpërdrejta.</desc>
+</programme>
+<programme channel="topchannel" start="20250428150000 +0100" stop="20250428154500 +0100">
+  <title lang="sq">Lajme e Moti</title>
+  <desc lang="sq">Edicionet informative që sjellin lajmet më të fundit dhe parashikimin e motit në intervale të ndryshme gjatë ditës.</desc>
+</programme>
+<programme channel="topchannel" start="20250428154500 +0100" stop="20250428163000 +0100">
+  <title lang="sq">"Top Talk Ekonomi"</title>
+  <desc lang="sq">Një program i përditshëm që trajton tema aktuale në fushën e ekonomisë dhe biznesit, duke ofruar analiza dhe diskutime me ekspertë të fushës.</desc>
+</programme>
+<programme channel="topchannel" start="20250428163000 +0100" stop="20250428170000 +0100">
+  <title lang="sq">Serial TV "Dashuri ne Kuzhine"</title>
+  <desc lang="sq">Një serial televiziv që përshkruan historinë e një nënë beqare dhe përpjekjet e saj për të krijuar një jetë të re pas një aventure të papritur.</desc>
+</programme>
+<programme channel="topchannel" start="20250428170000 +0100" stop="20250428181500 +0100">
+  <title lang="sq">"Ftese ne Pese"</title>
+  <desc lang="sq">Një talk show pasditeje që sjell intervista me personazhe të njohur dhe diskutime mbi tema aktuale që prekin jetën e përditshme.</desc>
+</programme>
+<programme channel="topchannel" start="20250428181500 +0100" stop="20250428193000 +0100">
+  <title lang="sq">"Per’puthen"</title>
+  <desc lang="sq">Program nga Top Channel.</desc>
+</programme>
+<programme channel="topchannel" start="20250428193000 +0100" stop="20250428200300 +0100">
+  <title lang="sq">Lajme e Moti</title>
+  <desc lang="sq">Edicionet informative që sjellin lajmet më të fundit dhe parashikimin e motit në intervale të ndryshme gjatë ditës.</desc>
+</programme>
+<programme channel="topchannel" start="20250428200300 +0100" stop="20250428202000 +0100">
+  <title lang="sq">"Shqiperia Tjeter"</title>
+  <desc lang="sq">Një program që fokusohet te njerëzit e thjeshtë dhe shpesh të harruar, duke sjellë në vëmendje historitë e tyre dhe realitetet e ndryshme në Shqipëri.</desc>
+</programme>
+<programme channel="topchannel" start="20250428202000 +0100" stop="20250428210000 +0100">
+  <title lang="sq">"Fiks Fare"</title>
+  <desc lang="sq">Emision investigativ që trajton problematika sociale, denoncime dhe satirë me humor karakteristik.</desc>
+</programme>
+<programme channel="topchannel" start="20250428210000 +0100" stop="20250428225000 +0100">
+  <title lang="sq">"Top Story"</title>
+  <desc lang="sq">Një nga programet më të gjata politike dhe sociale në Top Channel, që analizon çështje të rëndësishme shoqërore dhe politike në vend.</desc>
+</programme>
+<programme channel="topchannel" start="20250428225000 +0100" stop="20250428232000 +0100">
+  <title lang="sq">"Procesi Sportiv"</title>
+  <desc lang="sq">Një show sportiv që transmetohet çdo të hënë, duke sjellë analizat dhe diskutimet më të fundit nga bota e sportit.</desc>
+</programme>
+<programme channel="topchannel" start="20250429001400 +0100" stop="20250429004000 +0100">
+  <title lang="sq">Lajme e Moti</title>
+  <desc lang="sq">Edicionet informative që sjellin lajmet më të fundit dhe parashikimin e motit në intervale të ndryshme gjatë ditës.</desc>
+</programme>
+<programme channel="topchannel" start="20250429004000 +0100" stop="20250429011500 +0100">
+  <title lang="sq">"Fiks Fare" R</title>
+  <desc lang="sq">Emision investigativ që trajton problematika sociale, denoncime dhe satirë me humor karakteristik.</desc>
+</programme>
+<programme channel="topchannel" start="20250429011500 +0100" stop="20250429030000 +0100">
+  <title lang="sq">Soap Opera "Parajsa e zonjave" R</title>
+  <desc lang="sq">Program nga Top Channel.</desc>
+</programme>
+<programme channel="topchannel" start="20250429030000 +0100" stop="20250429033500 +0100">
+  <title lang="sq">Lajme e Moti</title>
+  <desc lang="sq">Edicionet informative që sjellin lajmet më të fundit dhe parashikimin e motit në intervale të ndryshme gjatë ditës.</desc>
+</programme>
+<programme channel="topchannel" start="20250429033500 +0100" stop="20250429052000 +0100">
+  <title lang="sq">"Shqiperia Live" R</title>
+  <desc lang="sq">Një program informativ që trajton ngjarjet më të fundit në Shqipëri dhe rajon, me intervista dhe raportime të drejtpërdrejta.</desc>
+</programme>
+<programme channel="topchannel" start="20250429052000 +0100" stop="20250429062100 +0100">
+  <title lang="sq">"Ftese ne Pese" R</title>
+  <desc lang="sq">Një talk show pasditeje që sjell intervista me personazhe të njohur dhe diskutime mbi tema aktuale që prekin jetën e përditshme.</desc>
+</programme>
+<programme channel="topchannel" start="20250429062100 +0100" stop="20250429070000 +0100">
+  <title lang="sq">"Fiks Fare" R</title>
+  <desc lang="sq">Emision investigativ që trajton problematika sociale, denoncime dhe satirë me humor karakteristik.</desc>
+</programme>
+<programme channel="topchannel" start="20250429070000 +0100" stop="20250429100000 +0100">
+  <title lang="sq">"Wake Up"</title>
+  <desc lang="sq">Një program mëngjesi që sjell informacion, humor, muzikë dhe biseda të këndshme për të nisur ditën me energji pozitive.</desc>
+</programme>
+<programme channel="topchannel" start="20250429100000 +0100" stop="20250429120000 +0100">
+  <title lang="sq">"Ne shtepine tone"</title>
+  <desc lang="sq">Një program i përditshëm që fokusohet në shijen, familjen dhe jetesën e mirë, me prezantuesit Alban Musa, Julka Gramo dhe Linda Fishta.</desc>
+</programme>
+<programme channel="topchannel" start="20250429120000 +0100" stop="20250429124500 +0100">
+  <title lang="sq">Lajme e Moti</title>
+  <desc lang="sq">Edicionet informative që sjellin lajmet më të fundit dhe parashikimin e motit në intervale të ndryshme gjatë ditës.</desc>
+</programme>
+<programme channel="topchannel" start="20250429124500 +0100" stop="20250429150000 +0100">
+  <title lang="sq">"Shqiperia Live"</title>
+  <desc lang="sq">Një program informativ që trajton ngjarjet më të fundit në Shqipëri dhe rajon, me intervista dhe raportime të drejtpërdrejta.</desc>
+</programme>
+<programme channel="topchannel" start="20250429150000 +0100" stop="20250429154500 +0100">
+  <title lang="sq">Lajme e Moti</title>
+  <desc lang="sq">Edicionet informative që sjellin lajmet më të fundit dhe parashikimin e motit në intervale të ndryshme gjatë ditës.</desc>
+</programme>
+<programme channel="topchannel" start="20250429154500 +0100" stop="20250429163000 +0100">
+  <title lang="sq">"Top Talk Ekonomi"</title>
+  <desc lang="sq">Një program i përditshëm që trajton tema aktuale në fushën e ekonomisë dhe biznesit, duke ofruar analiza dhe diskutime me ekspertë të fushës.</desc>
+</programme>
+<programme channel="topchannel" start="20250429163000 +0100" stop="20250429170000 +0100">
+  <title lang="sq">Serial TV "Dashuri ne Kuzhine"</title>
+  <desc lang="sq">Një serial televiziv që përshkruan historinë e një nënë beqare dhe përpjekjet e saj për të krijuar një jetë të re pas një aventure të papritur.</desc>
+</programme>
+<programme channel="topchannel" start="20250429170000 +0100" stop="20250429181500 +0100">
+  <title lang="sq">"Ftese ne Pese"</title>
+  <desc lang="sq">Një talk show pasditeje që sjell intervista me personazhe të njohur dhe diskutime mbi tema aktuale që prekin jetën e përditshme.</desc>
+</programme>
+<programme channel="topchannel" start="20250429181500 +0100" stop="20250429193000 +0100">
+  <title lang="sq">"Per’puthen"</title>
+  <desc lang="sq">Program nga Top Channel.</desc>
+</programme>
+<programme channel="topchannel" start="20250429193000 +0100" stop="20250429201000 +0100">
+  <title lang="sq">Lajme e Moti</title>
+  <desc lang="sq">Edicionet informative që sjellin lajmet më të fundit dhe parashikimin e motit në intervale të ndryshme gjatë ditës.</desc>
+</programme>
+<programme channel="topchannel" start="20250429201000 +0100" stop="20250429210000 +0100">
+  <title lang="sq">"Fiks Fare"</title>
+  <desc lang="sq">Emision investigativ që trajton problematika sociale, denoncime dhe satirë me humor karakteristik.</desc>
+</programme>
+<programme channel="topchannel" start="20250429210000 +0100" stop="20250429230000 +0100">
+  <title lang="sq">"Capital T"</title>
+  <desc lang="sq">Një program i dedikuar artistit Capital T, duke përfshirë performanca muzikore dhe intervista ekskluzive.</desc>
+</programme>
+<programme channel="topchannel" start="20250429230000 +0100" stop="20250429233000 +0100">
+  <title lang="sq">Serial TV "Anatomia e nje skandali" R</title>
+  <desc lang="sq">Një serial dramatik që eksploron pasojat e një skandali politik dhe ndikimin e tij në jetën personale dhe profesionale të personazheve të përfshirë.</desc>
+</programme>
+<programme channel="topchannel" start="20250430000000 +0100" stop="20250430003500 +0100">
+  <title lang="sq">Lajme e Moti</title>
+  <desc lang="sq">Edicionet informative që sjellin lajmet më të fundit dhe parashikimin e motit në intervale të ndryshme gjatë ditës.</desc>
+</programme>
+<programme channel="topchannel" start="20250430003500 +0100" stop="20250430011500 +0100">
+  <title lang="sq">"Fiks Fare" R</title>
+  <desc lang="sq">Emision investigativ që trajton problematika sociale, denoncime dhe satirë me humor karakteristik.</desc>
+</programme>
+<programme channel="topchannel" start="20250430011500 +0100" stop="20250430030000 +0100">
+  <title lang="sq">Soap Opera "Parajsa e zonjave" R</title>
+  <desc lang="sq">Program nga Top Channel.</desc>
+</programme>
+<programme channel="topchannel" start="20250430030000 +0100" stop="20250430033700 +0100">
+  <title lang="sq">Lajme e Moti</title>
+  <desc lang="sq">Edicionet informative që sjellin lajmet më të fundit dhe parashikimin e motit në intervale të ndryshme gjatë ditës.</desc>
+</programme>
+<programme channel="topchannel" start="20250430033700 +0100" stop="20250430052500 +0100">
+  <title lang="sq">"Shqiperia Live" R</title>
+  <desc lang="sq">Një program informativ që trajton ngjarjet më të fundit në Shqipëri dhe rajon, me intervista dhe raportime të drejtpërdrejta.</desc>
+</programme>
+<programme channel="topchannel" start="20250430052500 +0100" stop="20250430062500 +0100">
+  <title lang="sq">"Ftese ne Pese" R</title>
+  <desc lang="sq">Një talk show pasditeje që sjell intervista me personazhe të njohur dhe diskutime mbi tema aktuale që prekin jetën e përditshme.</desc>
+</programme>
+<programme channel="topchannel" start="20250430062500 +0100" stop="20250430070000 +0100">
+  <title lang="sq">"Fiks Fare" R</title>
+  <desc lang="sq">Emision investigativ që trajton problematika sociale, denoncime dhe satirë me humor karakteristik.</desc>
+</programme>
+<programme channel="topchannel" start="20250430070000 +0100" stop="20250430100000 +0100">
+  <title lang="sq">"Wake Up"</title>
+  <desc lang="sq">Një program mëngjesi që sjell informacion, humor, muzikë dhe biseda të këndshme për të nisur ditën me energji pozitive.</desc>
+</programme>
+<programme channel="topchannel" start="20250430100000 +0100" stop="20250430120000 +0100">
+  <title lang="sq">"Ne shtepine tone"</title>
+  <desc lang="sq">Një program i përditshëm që fokusohet në shijen, familjen dhe jetesën e mirë, me prezantuesit Alban Musa, Julka Gramo dhe Linda Fishta.</desc>
+</programme>
+<programme channel="topchannel" start="20250430120000 +0100" stop="20250430124500 +0100">
+  <title lang="sq">Lajme e Moti</title>
+  <desc lang="sq">Edicionet informative që sjellin lajmet më të fundit dhe parashikimin e motit në intervale të ndryshme gjatë ditës.</desc>
+</programme>
+<programme channel="topchannel" start="20250430124500 +0100" stop="20250430150000 +0100">
+  <title lang="sq">"Shqiperia Live"</title>
+  <desc lang="sq">Një program informativ që trajton ngjarjet më të fundit në Shqipëri dhe rajon, me intervista dhe raportime të drejtpërdrejta.</desc>
+</programme>
+<programme channel="topchannel" start="20250430150000 +0100" stop="20250430154500 +0100">
+  <title lang="sq">Lajme e Moti</title>
+  <desc lang="sq">Edicionet informative që sjellin lajmet më të fundit dhe parashikimin e motit në intervale të ndryshme gjatë ditës.</desc>
+</programme>
+<programme channel="topchannel" start="20250430154500 +0100" stop="20250430163000 +0100">
+  <title lang="sq">"Top Talk Ekonomi"</title>
+  <desc lang="sq">Një program i përditshëm që trajton tema aktuale në fushën e ekonomisë dhe biznesit, duke ofruar analiza dhe diskutime me ekspertë të fushës.</desc>
+</programme>
+<programme channel="topchannel" start="20250430163000 +0100" stop="20250430170000 +0100">
+  <title lang="sq">Serial TV "Dashuri ne Kuzhine"</title>
+  <desc lang="sq">Një serial televiziv që përshkruan historinë e një nënë beqare dhe përpjekjet e saj për të krijuar një jetë të re pas një aventure të papritur.</desc>
+</programme>
+<programme channel="topchannel" start="20250430170000 +0100" stop="20250430181500 +0100">
+  <title lang="sq">"Ftese ne Pese"</title>
+  <desc lang="sq">Një talk show pasditeje që sjell intervista me personazhe të njohur dhe diskutime mbi tema aktuale që prekin jetën e përditshme.</desc>
+</programme>
+<programme channel="topchannel" start="20250430181500 +0100" stop="20250430193000 +0100">
+  <title lang="sq">"Per’puthen"</title>
+  <desc lang="sq">Program nga Top Channel.</desc>
+</programme>
+<programme channel="topchannel" start="20250430193000 +0100" stop="20250430201000 +0100">
+  <title lang="sq">Lajme e Moti</title>
+  <desc lang="sq">Edicionet informative që sjellin lajmet më të fundit dhe parashikimin e motit në intervale të ndryshme gjatë ditës.</desc>
+</programme>
+<programme channel="topchannel" start="20250430201000 +0100" stop="20250430210000 +0100">
+  <title lang="sq">"Fiks Fare"</title>
+  <desc lang="sq">Emision investigativ që trajton problematika sociale, denoncime dhe satirë me humor karakteristik.</desc>
+</programme>
+<programme channel="topchannel" start="20250430210000 +0100" stop="20250430220000 +0100">
+  <title lang="sq">"Inside Story"</title>
+  <desc lang="sq">Një program investigativ në formatin e dokumentarëve që fokusohet në ngjarje aktuale dhe hulumtime rreth ngjarjeve të vjetra.</desc>
+</programme>
+<programme channel="topchannel" start="20250430220000 +0100" stop="20250430223000 +0100">
+  <title lang="sq">"Top Story"</title>
+  <desc lang="sq">Një nga programet më të gjata politike dhe sociale në Top Channel, që analizon çështje të rëndësishme shoqërore dhe politike në vend.</desc>
+</programme>
+<programme channel="topchannel" start="20250501000000 +0100" stop="20250501003500 +0100">
+  <title lang="sq">Lajme e Moti</title>
+  <desc lang="sq">Edicionet informative që sjellin lajmet më të fundit dhe parashikimin e motit në intervale të ndryshme gjatë ditës.</desc>
+</programme>
+<programme channel="topchannel" start="20250501003500 +0100" stop="20250501011500 +0100">
+  <title lang="sq">"Fiks Fare" R</title>
+  <desc lang="sq">Emision investigativ që trajton problematika sociale, denoncime dhe satirë me humor karakteristik.</desc>
+</programme>
+<programme channel="topchannel" start="20250501011500 +0100" stop="20250501030000 +0100">
+  <title lang="sq">Soap Opera "Parajsa e zonjave" R</title>
+  <desc lang="sq">Program nga Top Channel.</desc>
+</programme>
+<programme channel="topchannel" start="20250501030000 +0100" stop="20250501033700 +0100">
+  <title lang="sq">Lajme e Moti</title>
+  <desc lang="sq">Edicionet informative që sjellin lajmet më të fundit dhe parashikimin e motit në intervale të ndryshme gjatë ditës.</desc>
+</programme>
+<programme channel="topchannel" start="20250501033700 +0100" stop="20250501052500 +0100">
+  <title lang="sq">"Shqiperia Live" R</title>
+  <desc lang="sq">Një program informativ që trajton ngjarjet më të fundit në Shqipëri dhe rajon, me intervista dhe raportime të drejtpërdrejta.</desc>
+</programme>
+<programme channel="topchannel" start="20250501052500 +0100" stop="20250501062500 +0100">
+  <title lang="sq">"Ftese ne Pese" R</title>
+  <desc lang="sq">Një talk show pasditeje që sjell intervista me personazhe të njohur dhe diskutime mbi tema aktuale që prekin jetën e përditshme.</desc>
+</programme>
+<programme channel="topchannel" start="20250501062500 +0100" stop="20250501070000 +0100">
+  <title lang="sq">"Fiks Fare" R</title>
+  <desc lang="sq">Emision investigativ që trajton problematika sociale, denoncime dhe satirë me humor karakteristik.</desc>
+</programme>
+<programme channel="topchannel" start="20250501070000 +0100" stop="20250501100000 +0100">
+  <title lang="sq">"Wake Up"</title>
+  <desc lang="sq">Një program mëngjesi që sjell informacion, humor, muzikë dhe biseda të këndshme për të nisur ditën me energji pozitive.</desc>
+</programme>
+<programme channel="topchannel" start="20250501100000 +0100" stop="20250501120000 +0100">
+  <title lang="sq">"Ne shtepine tone"</title>
+  <desc lang="sq">Një program i përditshëm që fokusohet në shijen, familjen dhe jetesën e mirë, me prezantuesit Alban Musa, Julka Gramo dhe Linda Fishta.</desc>
+</programme>
+<programme channel="topchannel" start="20250501120000 +0100" stop="20250501124500 +0100">
+  <title lang="sq">Lajme e Moti</title>
+  <desc lang="sq">Edicionet informative që sjellin lajmet më të fundit dhe parashikimin e motit në intervale të ndryshme gjatë ditës.</desc>
+</programme>
+<programme channel="topchannel" start="20250501124500 +0100" stop="20250501150000 +0100">
+  <title lang="sq">"Shqiperia Live"</title>
+  <desc lang="sq">Një program informativ që trajton ngjarjet më të fundit në Shqipëri dhe rajon, me intervista dhe raportime të drejtpërdrejta.</desc>
+</programme>
+<programme channel="topchannel" start="20250501150000 +0100" stop="20250501154500 +0100">
+  <title lang="sq">Lajme e Moti</title>
+  <desc lang="sq">Edicionet informative që sjellin lajmet më të fundit dhe parashikimin e motit në intervale të ndryshme gjatë ditës.</desc>
+</programme>
+<programme channel="topchannel" start="20250501154500 +0100" stop="20250501163000 +0100">
+  <title lang="sq">"Top Talk Ekonomi"</title>
+  <desc lang="sq">Një program i përditshëm që trajton tema aktuale në fushën e ekonomisë dhe biznesit, duke ofruar analiza dhe diskutime me ekspertë të fushës.</desc>
+</programme>
+<programme channel="topchannel" start="20250501163000 +0100" stop="20250501170000 +0100">
+  <title lang="sq">Serial TV "Dashuri ne Kuzhine"</title>
+  <desc lang="sq">Një serial televiziv që përshkruan historinë e një nënë beqare dhe përpjekjet e saj për të krijuar një jetë të re pas një aventure të papritur.</desc>
+</programme>
+<programme channel="topchannel" start="20250501170000 +0100" stop="20250501181500 +0100">
+  <title lang="sq">"Ftese ne Pese"</title>
+  <desc lang="sq">Një talk show pasditeje që sjell intervista me personazhe të njohur dhe diskutime mbi tema aktuale që prekin jetën e përditshme.</desc>
+</programme>
+<programme channel="topchannel" start="20250501181500 +0100" stop="20250501193000 +0100">
+  <title lang="sq">"Per’puthen"</title>
+  <desc lang="sq">Program nga Top Channel.</desc>
+</programme>
+<programme channel="topchannel" start="20250501193000 +0100" stop="20250501201000 +0100">
+  <title lang="sq">Lajme e Moti</title>
+  <desc lang="sq">Edicionet informative që sjellin lajmet më të fundit dhe parashikimin e motit në intervale të ndryshme gjatë ditës.</desc>
+</programme>
+<programme channel="topchannel" start="20250501201000 +0100" stop="20250501210000 +0100">
+  <title lang="sq">"Fiks Fare"</title>
+  <desc lang="sq">Emision investigativ që trajton problematika sociale, denoncime dhe satirë me humor karakteristik.</desc>
+</programme>
+<programme channel="topchannel" start="20250501210000 +0100" stop="20250501230000 +0100">
+  <title lang="sq">"Top Story"</title>
+  <desc lang="sq">Një nga programet më të gjata politike dhe sociale në Top Channel, që analizon çështje të rëndësishme shoqërore dhe politike në vend.</desc>
+</programme>
+<programme channel="topchannel" start="20250501230000 +0100" stop="20250501233000 +0100">
+  <title lang="sq">Serial TV "Princesha Spanjolle"</title>
+  <desc lang="sq">Një serial historik që ndjek jetën dhe sfidat e një princeshe spanjolle në një periudhë të trazuar historike.</desc>
+</programme>
+<programme channel="topchannel" start="20250502000000 +0100" stop="20250502003700 +0100">
+  <title lang="sq">Lajme e Moti</title>
+  <desc lang="sq">Edicionet informative që sjellin lajmet më të fundit dhe parashikimin e motit në intervale të ndryshme gjatë ditës.</desc>
+</programme>
+<programme channel="topchannel" start="20250502003700 +0100" stop="20250502011500 +0100">
+  <title lang="sq">"Fiks Fare" R</title>
+  <desc lang="sq">Emision investigativ që trajton problematika sociale, denoncime dhe satirë me humor karakteristik.</desc>
+</programme>
+<programme channel="topchannel" start="20250502011500 +0100" stop="20250502030000 +0100">
+  <title lang="sq">Soap Opera "Parajsa e zonjave" R</title>
+  <desc lang="sq">Program nga Top Channel.</desc>
+</programme>
+<programme channel="topchannel" start="20250502030000 +0100" stop="20250502033600 +0100">
+  <title lang="sq">Lajme e Moti</title>
+  <desc lang="sq">Edicionet informative që sjellin lajmet më të fundit dhe parashikimin e motit në intervale të ndryshme gjatë ditës.</desc>
+</programme>
+<programme channel="topchannel" start="20250502033600 +0100" stop="20250502052500 +0100">
+  <title lang="sq">"Shqiperia Live" R</title>
+  <desc lang="sq">Një program informativ që trajton ngjarjet më të fundit në Shqipëri dhe rajon, me intervista dhe raportime të drejtpërdrejta.</desc>
+</programme>
+<programme channel="topchannel" start="20250502052500 +0100" stop="20250502062500 +0100">
+  <title lang="sq">"Ftese ne Pese" R</title>
+  <desc lang="sq">Një talk show pasditeje që sjell intervista me personazhe të njohur dhe diskutime mbi tema aktuale që prekin jetën e përditshme.</desc>
+</programme>
+<programme channel="topchannel" start="20250502062500 +0100" stop="20250502070000 +0100">
+  <title lang="sq">"Fiks Fare" R</title>
+  <desc lang="sq">Emision investigativ që trajton problematika sociale, denoncime dhe satirë me humor karakteristik.</desc>
+</programme>
+<programme channel="topchannel" start="20250502070000 +0100" stop="20250502100000 +0100">
+  <title lang="sq">"Wake Up"</title>
+  <desc lang="sq">Një program mëngjesi që sjell informacion, humor, muzikë dhe biseda të këndshme për të nisur ditën me energji pozitive.</desc>
+</programme>
+<programme channel="topchannel" start="20250502100000 +0100" stop="20250502120000 +0100">
+  <title lang="sq">"Ne shtepine tone"</title>
+  <desc lang="sq">Një program i përditshëm që fokusohet në shijen, familjen dhe jetesën e mirë, me prezantuesit Alban Musa, Julka Gramo dhe Linda Fishta.</desc>
+</programme>
+<programme channel="topchannel" start="20250502120000 +0100" stop="20250502124500 +0100">
+  <title lang="sq">Lajme e Moti</title>
+  <desc lang="sq">Edicionet informative që sjellin lajmet më të fundit dhe parashikimin e motit në intervale të ndryshme gjatë ditës.</desc>
+</programme>
+<programme channel="topchannel" start="20250502124500 +0100" stop="20250502150000 +0100">
+  <title lang="sq">"Shqiperia Live" R</title>
+  <desc lang="sq">Një program informativ që trajton ngjarjet më të fundit në Shqipëri dhe rajon, me intervista dhe raportime të drejtpërdrejta.</desc>
+</programme>
+<programme channel="topchannel" start="20250502150000 +0100" stop="20250502154500 +0100">
+  <title lang="sq">Lajme e Moti</title>
+  <desc lang="sq">Edicionet informative që sjellin lajmet më të fundit dhe parashikimin e motit në intervale të ndryshme gjatë ditës.</desc>
+</programme>
+<programme channel="topchannel" start="20250502154500 +0100" stop="20250502163000 +0100">
+  <title lang="sq">"Top Talk Ekonomi"</title>
+  <desc lang="sq">Një program i përditshëm që trajton tema aktuale në fushën e ekonomisë dhe biznesit, duke ofruar analiza dhe diskutime me ekspertë të fushës.</desc>
+</programme>
+<programme channel="topchannel" start="20250502163000 +0100" stop="20250502170000 +0100">
+  <title lang="sq">Serial TV "Dashuri ne Kuzhine"</title>
+  <desc lang="sq">Një serial televiziv që përshkruan historinë e një nënë beqare dhe përpjekjet e saj për të krijuar një jetë të re pas një aventure të papritur.</desc>
+</programme>
+<programme channel="topchannel" start="20250502170000 +0100" stop="20250502181500 +0100">
+  <title lang="sq">"Ftese ne Pese"</title>
+  <desc lang="sq">Një talk show pasditeje që sjell intervista me personazhe të njohur dhe diskutime mbi tema aktuale që prekin jetën e përditshme.</desc>
+</programme>
+<programme channel="topchannel" start="20250502181500 +0100" stop="20250502193000 +0100">
+  <title lang="sq">"Per’puthen"</title>
+  <desc lang="sq">Program nga Top Channel.</desc>
+</programme>
+<programme channel="topchannel" start="20250502193000 +0100" stop="20250502201000 +0100">
+  <title lang="sq">Lajme e Moti</title>
+  <desc lang="sq">Edicionet informative që sjellin lajmet më të fundit dhe parashikimin e motit në intervale të ndryshme gjatë ditës.</desc>
+</programme>
+<programme channel="topchannel" start="20250502201000 +0100" stop="20250502210000 +0100">
+  <title lang="sq">"Fiks Fare"</title>
+  <desc lang="sq">Emision investigativ që trajton problematika sociale, denoncime dhe satirë me humor karakteristik.</desc>
+</programme>
+<programme channel="topchannel" start="20250502210000 +0100" stop="20250502231500 +0100">
+  <title lang="sq">"AG Show" Aurela Gace</title>
+  <desc lang="sq">Një spektakël muzikor i drejtpërdrejtë i drejtuar nga Aurela Gaçe, që përfshin performanca skenike dhe interaktivitet me publikun përmes surprizave dhe lojërave.</desc>
+</programme>
+<programme channel="topchannel" start="20250502231500 +0100" stop="20250502234500 +0100">
+  <title lang="sq">Serial "Rregullat e vrasjes se persosur" R</title>
+  <desc lang="sq">Një serial thriller që ndjek një grup studentësh të drejtësisë dhe profesoreshën e tyre ndërsa përfshihen në një komplot vrasjeje.</desc>
+</programme>
+<programme channel="topchannel" start="20250503000000 +0100" stop="20250503003500 +0100">
+  <title lang="sq">Lajme e Moti</title>
+  <desc lang="sq">Edicionet informative që sjellin lajmet më të fundit dhe parashikimin e motit në intervale të ndryshme gjatë ditës.</desc>
+</programme>
+<programme channel="topchannel" start="20250503003500 +0100" stop="20250503011500 +0100">
+  <title lang="sq">"Fiks Fare" R</title>
+  <desc lang="sq">Emision investigativ që trajton problematika sociale, denoncime dhe satirë me humor karakteristik.</desc>
+</programme>
+<programme channel="topchannel" start="20250503011500 +0100" stop="20250503030000 +0100">
+  <title lang="sq">Soap Opera "Parajsa e zonjave" R</title>
+  <desc lang="sq">Program nga Top Channel.</desc>
+</programme>
+<programme channel="topchannel" start="20250503030000 +0100" stop="20250503033700 +0100">
+  <title lang="sq">Lajme e Moti</title>
+  <desc lang="sq">Edicionet informative që sjellin lajmet më të fundit dhe parashikimin e motit në intervale të ndryshme gjatë ditës.</desc>
+</programme>
+<programme channel="topchannel" start="20250503033700 +0100" stop="20250503052500 +0100">
+  <title lang="sq">"Shqiperia Live" R</title>
+  <desc lang="sq">Një program informativ që trajton ngjarjet më të fundit në Shqipëri dhe rajon, me intervista dhe raportime të drejtpërdrejta.</desc>
+</programme>
+<programme channel="topchannel" start="20250503052500 +0100" stop="20250503062500 +0100">
+  <title lang="sq">"Ftese ne Pese" R</title>
+  <desc lang="sq">Një talk show pasditeje që sjell intervista me personazhe të njohur dhe diskutime mbi tema aktuale që prekin jetën e përditshme.</desc>
+</programme>
+<programme channel="topchannel" start="20250503062500 +0100" stop="20250503070000 +0100">
+  <title lang="sq">"Fiks Fare" R</title>
+  <desc lang="sq">Emision investigativ që trajton problematika sociale, denoncime dhe satirë me humor karakteristik.</desc>
+</programme>
+<programme channel="topchannel" start="20250503070000 +0100" stop="20250503072500 +0100">
+  <title lang="sq">INFO</title>
+  <desc lang="sq">Program nga Top Channel.</desc>
+</programme>
+<programme channel="topchannel" start="20250503072500 +0100" stop="20250503081000 +0100">
+  <title lang="sq">Film Vizatimor "Alvin" R</title>
+  <desc lang="sq">Një film vizatimor që ndjek aventurat e Alvin dhe miqve të tij në përpjekjet për të shpëtuar botën me patinatat e tyre.</desc>
+</programme>
+<programme channel="topchannel" start="20250503081000 +0100" stop="20250503100500 +0100">
+  <title lang="sq">Film per Femije "Arrethyesi dhe 4 Mbreterite" R</title>
+  <desc lang="sq">Një film për fëmijë që tregon historinë e një vajze që zbulohet në një botë magjike dhe përpiqet të shpëtojë katër mbretëritë nga një kërcënim i përbashkët.</desc>
+</programme>
+<programme channel="topchannel" start="20250503100500 +0100" stop="20250503104500 +0100">
+  <title lang="sq">“Destinacionet e pazbuluara te Shqiperise” eps. 1</title>
+  <desc lang="sq">Program nga Top Channel.</desc>
+</programme>
+<programme channel="topchannel" start="20250503104500 +0100" stop="20250503120000 +0100">
+  <title lang="sq">"Artkand"</title>
+  <desc lang="sq">Një program që promovon artin dhe kulturën, duke sjellë intervista me artistë dhe raportime nga ngjarje kulturore.</desc>
+</programme>
+<programme channel="topchannel" start="20250503120000 +0100" stop="20250503124500 +0100">
+  <title lang="sq">Lajme e Moti</title>
+  <desc lang="sq">Edicionet informative që sjellin lajmet më të fundit dhe parashikimin e motit në intervale të ndryshme gjatë ditës.</desc>
+</programme>
+<programme channel="topchannel" start="20250503124500 +0100" stop="20250503150000 +0100">
+  <title lang="sq">"Shqiperia Live"</title>
+  <desc lang="sq">Një program informativ që trajton ngjarjet më të fundit në Shqipëri dhe rajon, me intervista dhe raportime të drejtpërdrejta.</desc>
+</programme>
+<programme channel="topchannel" start="20250503150000 +0100" stop="20250503153700 +0100">
+  <title lang="sq">Lajme e Moti</title>
+  <desc lang="sq">Edicionet informative që sjellin lajmet më të fundit dhe parashikimin e motit në intervale të ndryshme gjatë ditës.</desc>
+</programme>
+<programme channel="topchannel" start="20250503153700 +0100" stop="20250503164000 +0100">
+  <title lang="sq">"Hipokrati"</title>
+  <desc lang="sq">Një program që fokusohet në çështjet shëndetësore, duke ofruar këshilla dhe informacione të dobishme për mirëqenien fizike dhe mendore.</desc>
+</programme>
+<programme channel="topchannel" start="20250503164000 +0100" stop="20250503180000 +0100">
+  <title lang="sq">Serial "Beti ne New York" R</title>
+  <desc lang="sq">Program nga Top Channel.</desc>
+</programme>
+<programme channel="topchannel" start="20250503180000 +0100" stop="20250503193000 +0100">
+  <title lang="sq">"S'e Luan Topi"</title>
+  <desc lang="sq">Program nga Top Channel.</desc>
+</programme>
+<programme channel="topchannel" start="20250503193000 +0100" stop="20250503201000 +0100">
+  <title lang="sq">Lajme e Moti</title>
+  <desc lang="sq">Edicionet informative që sjellin lajmet më të fundit dhe parashikimin e motit në intervale të ndryshme gjatë ditës.</desc>
+</programme>
+<programme channel="topchannel" start="20250503201000 +0100" stop="20250503211500 +0100">
+  <title lang="sq">"Gjurme Shqiptare"</title>
+  <desc lang="sq">Një program investigativ që hulumton ngjarje dhe histori të ndryshme nga e kaluara dhe e tashmja shqiptare.</desc>
+</programme>
+<programme channel="topchannel" start="20250503211500 +0100" stop="20250503214500 +0100">
+  <title lang="sq">"POST Big Brother VIP Albania"</title>
+  <desc lang="sq">Një program që analizon dhe diskuton ngjarjet më të fundit nga reality show-i Big Brother VIP Albania.</desc>
+</programme>
+<programme channel="topchannel" start="20250504000000 +0100" stop="20250504004000 +0100">
+  <title lang="sq">Lajme e Moti</title>
+  <desc lang="sq">Edicionet informative që sjellin lajmet më të fundit dhe parashikimin e motit në intervale të ndryshme gjatë ditës.</desc>
+</programme>
+<programme channel="topchannel" start="20250504004000 +0100" stop="20250504030000 +0100">
+  <title lang="sq">Serial "Toke e eger" R</title>
+  <desc lang="sq">Një serial që përshkruan jetën në një ambient të egër dhe sfidat që përballen personazhet në një mjedis të tillë.</desc>
+</programme>
+<programme channel="topchannel" start="20250504030000 +0100" stop="20250504034000 +0100">
+  <title lang="sq">Lajme e Moti</title>
+  <desc lang="sq">Edicionet informative që sjellin lajmet më të fundit dhe parashikimin e motit në intervale të ndryshme gjatë ditës.</desc>
+</programme>
+<programme channel="topchannel" start="20250504034000 +0100" stop="20250504052500 +0100">
+  <title lang="sq">Telenovela "Mali i Yjeve" R</title>
+  <desc lang="sq">Telenovelë që përshkruan jetën dhe sfidat e banorëve të një komuniteti të vogël.</desc>
+</programme>
+<programme channel="topchannel" start="20250504052500 +0100" stop="20250504070000 +0100">
+  <title lang="sq">Serial "Gomorrah" R</title>
+  <desc lang="sq">Një serial italian dramatik mbi jetën dhe konfliktet e mafias napolitane.</desc>
+</programme>
+<programme channel="topchannel" start="20250504070000 +0100" stop="20250504072500 +0100">
+  <title lang="sq">INFO</title>
+  <desc lang="sq">Program nga Top Channel.</desc>
+</programme>
+<programme channel="topchannel" start="20250504072500 +0100" stop="20250504081000 +0100">
+  <title lang="sq">Film Vizatimor "Alvin" R</title>
+  <desc lang="sq">Një film vizatimor që ndjek aventurat e Alvin dhe miqve të tij në përpjekjet për të shpëtuar botën me patinatat e tyre.</desc>
+</programme>
+<programme channel="topchannel" start="20250504081000 +0100" stop="20250504100000 +0100">
+  <title lang="sq">Film Artistik "Shokët imagjinarë" R</title>
+  <desc lang="sq">Program nga Top Channel.</desc>
+</programme>
+<programme channel="topchannel" start="20250504100000 +0100" stop="20250504120000 +0100">
+  <title lang="sq">"Top List"</title>
+  <desc lang="sq">Emision muzikor që paraqet klasifikimin e këngëve më të dëgjuara nga artistë shqiptarë dhe të huaj.</desc>
+</programme>
+<programme channel="topchannel" start="20250504120000 +0100" stop="20250504124500 +0100">
+  <title lang="sq">Lajme e Moti</title>
+  <desc lang="sq">Edicionet informative që sjellin lajmet më të fundit dhe parashikimin e motit në intervale të ndryshme gjatë ditës.</desc>
+</programme>
+<programme channel="topchannel" start="20250504124500 +0100" stop="20250504150000 +0100">
+  <title lang="sq">"E Diell"</title>
+  <desc lang="sq">Program argëtues i së dielës që përfshin muzikë, humor, intervista dhe rubrika të ndryshme argëtuese.</desc>
+</programme>
+<programme channel="topchannel" start="20250504150000 +0100" stop="20250504153200 +0100">
+  <title lang="sq">Lajme e Moti</title>
+  <desc lang="sq">Edicionet informative që sjellin lajmet më të fundit dhe parashikimin e motit në intervale të ndryshme gjatë ditës.</desc>
+</programme>
+<programme channel="topchannel" start="20250504153200 +0100" stop="20250504193000 +0100">
+  <title lang="sq">"E Diell"</title>
+  <desc lang="sq">Program argëtues i së dielës që përfshin muzikë, humor, intervista dhe rubrika të ndryshme argëtuese.</desc>
+</programme>
+<programme channel="topchannel" start="20250504193000 +0100" stop="20250504200000 +0100">
+  <title lang="sq">Lajme e Moti</title>
+  <desc lang="sq">Edicionet informative që sjellin lajmet më të fundit dhe parashikimin e motit në intervale të ndryshme gjatë ditës.</desc>
+</programme>
+<programme channel="topchannel" start="20250504200000 +0100" stop="20250504200800 +0100">
+  <title lang="sq">"Vitrina e Librit"</title>
+  <desc lang="sq">Program nga Top Channel.</desc>
+</programme>
+<programme channel="topchannel" start="20250504200800 +0100" stop="20250504201500 +0100">
+  <title lang="sq">Moti</title>
+  <desc lang="sq">Program nga Top Channel.</desc>
+</programme>
+<programme channel="topchannel" start="20250504201500 +0100" stop="20250504210000 +0100">
+  <title lang="sq">Exclusive</title>
+  <desc lang="sq">Një program që sjell reportazhe ekskluzive mbi tema të ndryshme aktuale dhe historike.</desc>
+</programme>
+<programme channel="topchannel" start="20250504210000 +0100" stop="20250504232500 +0100">
+  <title lang="sq">"Portokalli"</title>
+  <desc lang="sq">Emision humoristik që trajton me satirë ngjarjet aktuale dhe jetën sociale në Shqipëri.</desc>
+</programme>
+<programme channel="topchannel" start="20250504232500 +0100" stop="20250504235500 +0100">
+  <title lang="sq">"Gjurme Shqiptare" R</title>
+  <desc lang="sq">Një program investigativ që hulumton ngjarje dhe histori të ndryshme nga e kaluara dhe e tashmja shqiptare.</desc>
+</programme>
+</tv>
